@@ -1,16 +1,9 @@
-## Hi there I'm Byron👋
-- Studying Computer Science at ASU
-- 🔭 I’m currently working on building cool software
-- 💬 Ask me about infosec and sec related stuff
-- ⚡ pwn.college sweat
-<!--
+<h1 align="center">Hi there, I'm Byron 👋</h1>
 
+<p align="center">Studying Computer Science at ASU</p>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<p align="center">🔭 I’m currently working on building cool software</p>
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
+<p align="center">💬 Ask me about infosec and security-related stuff</p>
+
+<p align="center">⚡ pwn.college sweat</p>
